@@ -1,2 +1,5 @@
 Hi, my name is Sevinch Noori and my Github user name is sevinchnoori.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7e31c10bc297c443ea3973059c3db419466420ea
